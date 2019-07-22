@@ -34,4 +34,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(process.env.NDI1ODE3NjQ3Mjk3NTkzMzQ0.XTVO_w.UGwbsotJdOB89GKZSVOeRRgylQI)
+client.login(process.env.tzZcXf2U5RKGVW4fNLJrNgxCE_RygRlq)
